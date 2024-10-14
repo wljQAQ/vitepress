@@ -1,4 +1,4 @@
-# 默认主题配置 {#default-theme-config}
+# 默认主题配置 {#default-theme-config}123
 
 主题配置可以让你能够自定义主题。可以通过将 `themeConfig` 添加到配置文件来进行主题配置：
 
